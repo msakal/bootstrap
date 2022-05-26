@@ -45,6 +45,8 @@
     opacity: 0.5;
     z-index: 1;
   }
+
+ 
   
   /* Media Query for devices withi coarse pointers and no hover functionality */
   
@@ -60,3 +62,22 @@
     }
   }
   /* ---------------------------------------------------------------- */
+
+
+
+
+/* Re-escrevendo a classe do BOOTSTRAP */
+
+.btn-primary {
+    background-color: midnightblue;
+    border: 1px solid midnightblue;
+}
+
+.whatsapp {
+    color: #fff;
+    background-color: greenyellow;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* ---------------------------------------------------------------- */
